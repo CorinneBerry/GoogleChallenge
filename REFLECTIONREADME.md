@@ -8,9 +8,11 @@ My code has passed all of the tests for Part 1 and 9 out of the 20 tests for par
 
 The project required me to be persistent and use my strong research and problem solving skills to discover how to implement features, e.g. to find out about functions for manipulating lists and dictionaries etc. I used sources such as the book ‘Python for Everybody: Exploring Data in Python 3’ by Charles Severance as well as online sources such as Stack Overflow to help me with this as well as peer networking.
 
-I tried to structure my code well within the time constraints: using clear variable names, being consistent in terms of use of whitespace, minimising repetition within my code etc.
+I tried to structure my code well within the time constraints: using clear variable names, being consistent in terms of use of whitespace, minimising repetition within my code etc. I refactored my code where possible, e.g. pulling f"Currently playing: {self._current_video.title} ({self._current_video.video_id}) [{current_video_tags}]"
+out into a video_details variable within the show_playing method in the video_player class and then reusing video_details when printing the messages to the command line.
 
 Using Github was also totally new to me- I had prepared a Google Drive link and then we were told in the submission email that we were required to use Github so I was challenged and managed to rapidly register and get my work uploaded in time to share the link in my 1:1 networking session and submit my work sample.
 
 This project helped me to rapidly develop my Python skills and has encouraged me to learn more Python in the future.
+![image](https://user-images.githubusercontent.com/79268886/124115498-c6fdb580-da65-11eb-99c5-62f654ebfe73.png)
 
